@@ -19,4 +19,5 @@ Note: The unittest has been applied on the test of a date value as input paramet
 - DockerFile
 - Requirements (for Docker)
 - "capstone - unittest.py" (python program for unittest)
-
+- "capstone - logging.py" (python program for logging)
+- Aggregated monthly data "all countries" : file invoices.csv
